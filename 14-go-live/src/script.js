@@ -37,7 +37,7 @@ fontLoader.load(
 
         // Text
         const textGeometry = new TextGeometry(
-            'Hello Three.js',
+            'Hello 3D World',
             {
                 font: font,
                 size: 0.5,
